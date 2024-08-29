@@ -15,7 +15,7 @@ Installation
 
 To run the project locally, follow these steps:
 
-    Clone the repository: `git clone ()
+    Clone the repository: `git clone (https://github.com/Anamika-itzz/Myntra-HackerRamp-WeForShe.git)
     Install the extension LiveServer
 
 Usage
